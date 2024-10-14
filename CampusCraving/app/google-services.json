@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "772097211097",
+    "firebase_url": "https://campus-craving-default-rtdb.firebaseio.com",
+    "project_id": "campus-craving",
+    "storage_bucket": "campus-craving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772097211097:android:46f597a025cc2731ebdcc8",
+        "android_client_info": {
+          "package_name": "com.harshitraj.campuscraving"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRRNRqhCvSKeCDwBzSn-9Tm3dsOIfoZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
