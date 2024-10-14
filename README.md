@@ -74,4 +74,3 @@ The CampusCraving food delivery app leverages a combination of modern technologi
 - **Build Automation**: Gradle manages dependencies and automates the build process in the Java environment.
 
 By integrating these technologies, CampusCraving aims to deliver a comprehensive and efficient food delivery service that meets the needs of the campus community.
->>>>>>> 8f459a4 (Completed Project)
