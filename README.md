@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Food_Delivery_App
-=======
+
 # CampusCraving
 
 **CampusCraving** is an innovative online food delivery app designed to enhance the dining experience within campus communities. By integrating Java, Python, and Google APIs, CampusCraving aims to simplify the food ordering process and reduce wait times at campus eateries.
@@ -24,7 +23,7 @@ To run CampusCraving locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarshitRaj23/CampusCraving.git
+   git clone https://github.com/garvg4278/Food_Delivery_App.git
 
 
 ## Usage
